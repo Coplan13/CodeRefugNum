@@ -4,7 +4,7 @@ $(function() {
     var validInformation = true;
     // Ajax request
     $.post({
-        url :'/../codeRefugNum 2/src/Controller/GetQuestions.php',
+        url :'/../codeRefugNum/src/Controller/GetQuestions.php',
 
         success : function(code_html, data, statut){
             
@@ -26,6 +26,7 @@ $(function() {
             var validation = listeDeQuestions[newQuest][6];
 
             var longueurDuQuizz = 10;
+            var nbPourObtention = 8;
         
             $('.validButton').click(function(e){
                 compteur++;
@@ -64,7 +65,7 @@ $(function() {
                     }
                     
                 }else{
-                    var stringResult = codeObtenu(nbBonneRep, 8);
+                    var stringResult = codeObtenu(nbBonneRep, nbPourObtention);
                     $( ".question" ).empty();
                     $( ".reponses" ).empty();
                     $('.question').append('<p>Test fini</p>');

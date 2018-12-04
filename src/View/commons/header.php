@@ -8,8 +8,7 @@ $imgSrc = "http://www.randomcontrol.com/images/presskit/logos/arion-stand-alone-
     </div>
 
     <nav class="navigationBar">
-        <button class="navButton"><a href="">Accueil</a></button>
-        <button class="navButton"><a href="src/View/quizz.php">S'entraîner</a></button>
-        <button class="navButton"><a href="#">Parcourir les entraînements</a></button>
+        <button class="navButton"><a href="/../codeRefugNum/src/View/MainPage.php"">Accueil</a></button>
+        <button class="navButton"><a href="/../codeRefugNum/src/View/quizz.php">S'entraîner</a></button>
     </nav>
 </header>
