@@ -1,0 +1,315 @@
+{
+
+    "data":
+ 
+    [
+ 
+        {
+ 
+            "questions": "Peut-on rouler dans cette rue ? Si oui, à quelle vitesse doit-on y rouler" ,
+ 
+            "reponse1": "Oui",
+ 
+            "reponse2": "Non",
+ 
+            "reponse3": "50km",
+ 
+            "reponse4": "70km",
+ 
+            "BonneRep": "1307"
+ 
+        },
+ 
+        {
+ 
+            "questions": "La vitesse // max ???" ,
+ 
+            "reponse1": "Oui",
+ 
+            "reponse2": "Non",
+ 
+            "reponse3": "50km",
+ 
+            "reponse4": "70km",
+ 
+            "BonneRep": "1001   "
+ 
+         },
+ 
+         {
+ 
+            "questions": "Je suis à hauteur : - d'une sortie autoroutière // - d'une bifurcation autoroutière" ,
+ 
+            "reponse1": "Oui",
+ 
+            "reponse2": "Non",
+ 
+            "reponse3": "Oui",
+ 
+            "reponse4": "Non",
+ 
+            "BonneRep": "0110"
+ 
+         },
+ 
+         {
+ 
+            "questions": "Je vais rencontrer // Je ralentis" ,
+ 
+            "reponse1": "des enfants",
+ 
+            "reponse2": "une descente dangeureuse",
+ 
+            "reponse3": "oui",
+ 
+            "reponse4": "non",
+ 
+            "BonneRep": "0110"
+ 
+         },
+ 
+         {
+ 
+            "questions": "La chaussée va être rétrécie : Par la droite // Par la gauche" ,
+ 
+            "reponse1": "oui",
+ 
+            "reponse2": "non",
+ 
+            "reponse3": "oui",
+ 
+            "reponse4": "non",
+ 
+            "BonneRep": "0110"
+ 
+         },
+ 
+         {
+ 
+            "questions": "Ce panneau est un panneau de" ,
+ 
+            "reponse1": "danger",
+ 
+            "reponse2": "indication",
+ 
+            "reponse3": "inderdiction",
+ 
+            "reponse4": "obligation",
+ 
+            "BonneRep": "1000"
+ 
+         },
+ 
+         {
+ 
+            "questions": "Je dépasse immédiatement" ,
+ 
+            "reponse1": "oui",
+ 
+            "reponse2": "non",
+ 
+            "reponse3": "",
+ 
+            "reponse4": "",
+ 
+            "BonneRep": "01"
+ 
+         },
+ 
+         {
+ 
+            "questions": "Sur cette chaussée je me place" ,
+ 
+            "reponse1": "le long de la ligne médiane",
+ 
+            "reponse2": "le long de la bande cyclable",
+ 
+            "reponse3": "peu importe",
+ 
+            "reponse4": "",
+ 
+            "BonneRep": "010"
+ 
+         },
+ 
+         {
+ 
+            "questions": "En prenant à droite, je quitte" ,
+ 
+            "reponse1": "Une route à accès réglementé",
+ 
+            "reponse2": "Une route prioritaire",
+ 
+            "reponse3": "Une autoroute",
+ 
+            "reponse4": "",
+ 
+            "BonneRep": "001"
+ 
+         },
+ 
+         {
+ 
+            "questions": "La rue en face est à sens unique" ,
+ 
+            "reponse1": "oui",
+ 
+            "reponse2": "non",
+ 
+            "reponse3": "",
+ 
+            "reponse4": "",
+ 
+            "BonneRep": "01"
+ 
+         },
+ 
+         {
+ 
+            "questions": "Je passe" ,
+ 
+            "reponse1": "avant la voiture rouge",
+ 
+            "reponse2": "après la voiture rouge",
+ 
+            "reponse3": "",
+ 
+            "reponse4": "",
+ 
+            "BonneRep": "10"
+ 
+         },
+ 
+         {
+ 
+            "questions": "Dans cette situation" ,
+ 
+            "reponse1": "je m'arrête",
+ 
+            "reponse2": "je passe",
+ 
+            "reponse3": "",
+ 
+            "reponse4": "",
+ 
+            "BonneRep": "10"
+ 
+         },
+ 
+         {
+ 
+            "questions": "Je me suis trompé de direction" ,
+ 
+            "reponse1": "Je peux encore revenir sur l'axe principal",
+ 
+            "reponse2": "Je dois continuer sur la sortie",
+ 
+            "reponse3": "",
+ 
+            "reponse4": "",
+ 
+            "BonneRep": "01"
+ 
+         },
+ 
+         {
+ 
+            "questions": "Quel est l'intrus ?" ,
+ 
+            "reponse1": "cf image",
+ 
+            "reponse2": "cf image",
+ 
+            "reponse3": "cf image",
+ 
+            "reponse4": "cf image",
+ 
+            "BonneRep": "0100"
+ 
+         },
+ 
+         {
+ 
+            "questions": "Ce panneau indique :" ,
+ 
+            "reponse1": "un virage à gauche",
+ 
+            "reponse2": "un virage à droite",
+ 
+            "reponse3": "",
+ 
+            "reponse4": "",
+ 
+            "BonneRep": "10"
+ 
+         },
+ 
+         {
+ 
+            "questions": "Avec cette commande, je peux régler les rétroviseurs latéraux" ,
+ 
+            "reponse1": "Oui",
+ 
+            "reponse2": "Non",
+ 
+            "reponse3": "",
+ 
+            "reponse4": "",
+ 
+            "BonneRep": "10"
+ 
+         },
+ 
+         {
+ 
+            "questions": "Un frein à main peut s'enclencher" ,
+ 
+            "reponse1": "Si je tire toujours la commande",
+ 
+            "reponse2": "Automatiquement",
+ 
+            "reponse3": "",
+ 
+            "reponse4": "",
+ 
+            "BonneRep": "01"
+ 
+         },
+ 
+         {
+ 
+            "questions": "Lorsque j'achète un véhicule neuf, je peux bénéficier de" ,
+ 
+            "reponse1": "bonus écologique",
+ 
+            "reponse2": "malus écologique",
+ 
+            "reponse3": "aucun des deux",
+ 
+            "reponse4": "Un équipement anti-pollution",
+ 
+            "BonneRep": "1110"
+ 
+         },
+ 
+         {
+ 
+            "questions": "Les bandes et pistes cyclables" ,
+ 
+            "reponse1": "favorisent l'éco-mobilité",
+ 
+            "reponse2": "sont une gêne pour la circulation des voitures",
+ 
+            "reponse3": "permettent aux cyclistes de circuler plus en sécurité",
+ 
+            "reponse4": "",
+ 
+            "BonneRep": "101"
+ 
+         }
+ 
+    ]
+ 
+ }
+ 
+ 
